@@ -22,8 +22,8 @@ Class diagrams are most useful in the object-oriented design methodology. They v
 ### What are the four pillars of object oriented programming? Give a single-sentence description of each.
 These include Encapsulation (bundling data and methods), Abstraction (simplifying reality), Inheritance (reusing and extending code), and Polymorphism (treating different objects as a common type).
 
-### What is the strategy pattern? How would its implementation differ between a functional and object oriented system?   
+### What is the strategy pattern? How would its implementation differ between a functional and object oriented system?   
 It's a design pattern for defining and encapsulating interchangeable algorithms. In a functional system, it involves defining functions or function objects. In an object-oriented system, it creates a family of classes for different strategies.
 
 ### Imagine your is creating a new online payment system. In order to gain maximum market share it can't be tied to a particular sector - it needs to work just as well when ordering a takeaway as when buying a new coat. Which design methodology would you suggest following? Give some justification for your decision.
-For a versatile payment system, following the object-oriented design methodology is better as it needs to work in many different scenarios. It allows modeling different payment methods and sectors as objects. Offering reusability and maintainability through classes, inheritance, and polymorphism. s
+For a versatile payment system, following the object-oriented design methodology is better as it needs to work in many different scenarios. It allows modeling different payment methods and sectors as objects. Offering reusability and maintainability through classes, inheritance, and polymorphism. 
